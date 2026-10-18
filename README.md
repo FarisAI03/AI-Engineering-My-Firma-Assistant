@@ -33,4 +33,4 @@ Property and finance students, junior analysts, and ESG/sustainability researche
 ## Weekly Progress
 | Week | Focus | Deliverable | Status |
 |------|-------|-------------|--------|
-| W1 | System map + project scope | README + docs | ✅ |
+| W1 | System map + project scope | README + docs | System Map only Ongoing |
