@@ -6,7 +6,7 @@
 Malaysian property developers publish long annual, integrated and sustainability reports that mix narrative, targets and data tables. Students, junior analysts and Environment, Social and Governance (ESG) researchers must read and compare several reports manually to answer simple questions such as "What was the company's sales figure?" or "What is its net-zero target?". AI engineering makes it possible to build a document-grounded Q&A assistant that retrieves and cites the exact passage or table behind each answer, which keyword search cannot do across long, multi-document reports.
 
 ## Evidence of the Problem
-- The Sunway Berhad 2025 Sustainability Report is 223 pages long and is aligned with the IFRS S1 and S2 standards, so users must navigate large, standards-structured documents to find specific figures. Source: [Sunway Sustainability Report 2025]
+- The Sunway Berhad 2025 Sustainability Report is 223 pages long and is aligned with the IFRS S1 and S2 standards, so users must navigate large, standards-structured documents to find specific figures. Source: [Sunway Sustainability Report 2025](https://www.sunway.com.my/wp-content/uploads/sustainability-reports/Sunway-Berhad-Sustainability-Report-2025.pdf)
 - S P Setia's Integrated Report 2025 spreads financial, operational and sustainability information across one report, and includes an inaugural International Sustainability Standards Board (ISSB) statement within its sustainability disclosures, so one question can require combining several sections. Source: [S P Setia Integrated Report 2025](https://spsetia.com/wp-content/uploads/2026/03/Message_from_Our_Chairman.pdf)
 
 ## Initial Related Work / Existing Approaches
